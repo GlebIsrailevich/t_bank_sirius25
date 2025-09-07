@@ -1,3 +1,7 @@
 base_venv
 sirius_recsys
 sirius-2025-recsys.zip
+baseline_solution/books_image_emb.parquet
+cat_watermelon.jpg
+baseline_solution/books_title_emb.parquet
+baseline_solution/books_title_description_emb.parquet
