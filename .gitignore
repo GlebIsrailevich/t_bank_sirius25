@@ -5,3 +5,21 @@ baseline_solution/books_image_emb.parquet
 cat_watermelon.jpg
 baseline_solution/books_title_emb.parquet
 baseline_solution/books_title_description_emb.parquet
+baseline_solution/multiarm_bandits.ipynb
+baseline_solution/books_image_dino_emb.parquet
+baseline_solution/books_all_embs.parquet
+baseline_solution/catboost_info
+baseline_solution/catboost_mab.ipynb
+baseline_solution/catboost_trunc.parquet
+baseline_solution/catboost.parquet
+baseline_solution/hybrid.ipynb
+methods/catboost_emb.ipynb
+methods/catboost_info
+methods/RMSE
+results
+methods/light_fm_mab.ipynb
+methods/catboost_clear.ipynb
+methods/catboost_clear copy.ipynb
+methods/models
+methods/results_csv
+methods/YetiRank
