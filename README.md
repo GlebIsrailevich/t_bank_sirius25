@@ -32,17 +32,17 @@
 ## Catboost methods/catboost_pipeline.ipynb [methods/catboost_pipeline.ipynb](https://github.com/GlebIsrailevich/t_bank_sirius25/blob/master/methods/catboost_pipeline.ipynb)
 Здесь полученные эмбеддинги я попробовал подать в CatboostRanker для формирования ContentBased рекомендаций (неудачный эксперимент, на имеющихся фичах катбуст выдает только теплые)
 
-## methods/user_portrait.ipynb []()
+## methods/user_portrait.ipynb [user_portrait.ipynb](https://github.com/GlebIsrailevich/t_bank_sirius25/blob/master/methods/user_portrait.ipynb)
 Здесь я пытался сконкатенировать описания и названия прочитанных юзером книг и 
 
 ## KNN вариации [methods/knn_variations.ipynb](https://github.com/GlebIsrailevich/t_bank_sirius25/blob/master/methods/knn_variations.ipynb)
 Здесь я пробую использовать разные метрики (косинус) и разные эмбеддинги по отдельности
 
-## HNSW [methods/hnsw_test.ipynb]()
+## HNSW [methods/hnsw_test.ipynb](https://github.com/GlebIsrailevich/t_bank_sirius25/blob/master/methods/hnsw_test.ipynb)
 Здесь я совмещаю эмбеддинги тэгов, изображений описаний и названий книг 
 
 
-## Summary or Ablation Study [methods/summary.ipynb](https://github.com/GlebIsrailevich/t_bank_sirius25/blob/master/methods/ablation_study.ipynb)
+## Summary or Ablation Study [methods/summary.ipynb](https://github.com/GlebIsrailevich/t_bank_sirius25/blob/master/methods/summary.ipynb)
 Итоги по задаче что получилось, а что нет + метрики
 
 ## Future work
